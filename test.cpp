@@ -8,7 +8,7 @@ void printName(){
 
 int main(){
 
-    printName();
+    printName(2018);
 
    return 0; 
 }
