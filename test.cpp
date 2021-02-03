@@ -3,7 +3,7 @@
 using namespace std;
 
 void printName(){
-    cout << "Nick Waring" << endl;
+    cout << "Nick Stucky Waring" << endl;
     }
 
 int main(){
