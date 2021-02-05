@@ -2,8 +2,9 @@
 
 using namespace std;
 
-void printName(){
-    cout << "Nick S. Waring" << endl;
+void printName(int year){
+    int age = year - 2000;
+    cout << "Nick S. Waring: " << age << endl;
     }
 
 int main(){
